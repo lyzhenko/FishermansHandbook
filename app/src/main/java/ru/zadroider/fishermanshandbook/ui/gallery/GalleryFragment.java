@@ -14,7 +14,7 @@ import ru.zadroider.fishermanshandbook.databinding.FragmentGalleryBinding;
 
 public class GalleryFragment extends Fragment {
 
-    private FragmentGalleryBinding binding;
+/*    private FragmentGalleryBinding binding;
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
@@ -33,5 +33,5 @@ public class GalleryFragment extends Fragment {
     public void onDestroyView() {
         super.onDestroyView();
         binding = null;
-    }
+    }*/
 }
